@@ -1,8 +1,8 @@
-### Hi there 👋
 
 
-<h1 align="center">Hi 👋, I'm Daman Mokha</h1>
-<h3 align="center">From India's Heart to Tech's Frontier: Embracing Node, React, Laravel & Cloud Innovations</h3>
+
+<h3 align="center">Hi 👋, I'm Daman Mokha</h1>
+<h5 align="center">From India's Heart to Tech's Frontier: Embracing Node, React, Laravel & Cloud Innovations</h3>
 <!--
 **damanmokha/damanmokha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
