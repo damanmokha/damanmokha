@@ -7,9 +7,11 @@
 <hr />
 
 <h5 align="center">Some Stats</h5>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damanmokha&show_icons=true&locale=en&layout=compact" alt="tzsk" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=damanmokha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="damanmokha" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=damanmokha&theme=tokyonight" alt="damanmokha" /></p>
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=damanmokha&show_icons=true&locale=en&theme=tokyonight" alt="damanmokha" /></p>
 <!--
 **damanmokha/damanmokha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
