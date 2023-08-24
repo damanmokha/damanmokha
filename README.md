@@ -1,7 +1,7 @@
  ### Hi 👋, I'm Daman Mokha
  ##### Full Stack Developer | From India's Heart to Tech's Frontier: Embracing Node, React, Laravel & Cloud Innovations
 * * *
- Hello there! My name is Daman Mokha. I am a full stack developer with expertise in PHP, Laravel, WordPress, React, React Native, and Angular. 
+ Hello there! My name is Daman Mokha. I am a full stack developer with expertise in PHP, Node.js, Laravel, WordPress, React, React Native, and Angular. 
 
 ## :wave: Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daman_mokha/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damanmokha) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/damanmokha/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/daman_mokha)
